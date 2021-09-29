@@ -1,0 +1,3 @@
+stages:
+  toy-pipeline:
+    cmd: echo "hello world"
