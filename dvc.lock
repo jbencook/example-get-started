@@ -1,0 +1,4 @@
+schema: '2.0'
+stages:
+  toy-pipeline:
+    cmd: echo "hello world"
